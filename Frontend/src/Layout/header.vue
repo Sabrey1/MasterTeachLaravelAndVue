@@ -67,17 +67,22 @@
 
         </ul>
     </div>
-    <pre id="home-laptops">Home      Laptops</pre>
+    <div class="card flex mt-2 fix-container">
+        <Breadcrumb   :model="items" />
+    </div>
      
 </template>
 
 <script setup>
 import { ref } from "vue";
-import InputGroup from 'primevue/inputgroup';
-import InputGroupAddon from 'primevue/inputgroupaddon';
-import Select from 'primevue/select';
 
-
+import Breadcrumb from 'primevue/breadcrumb';
+ 
+const items = ref([
+   
+    { label: 'Home' },
+    { label: 'Wireless' }
+]);
 
 const selectedCity = ref();
 const cities = ref([
