@@ -68,7 +68,7 @@
         </ul>
     </div>
     <div class="card flex mt-2 fix-container">
-        <Breadcrumb   :model="items" />
+        <Breadcrumb :model="items" />
     </div>
      
 </template>

@@ -17,12 +17,23 @@
                     class="mySwiper"
                 >
                     <swiper-slide>
-                        <img src="" alt="">
+                        <img src="/Banner/banner1.webp" alt="">
                     </swiper-slide>
-                    <swiper-slide>Slide 2</swiper-slide><swiper-slide>Slide 3</swiper-slide>
-                    <swiper-slide>Slide 4</swiper-slide><swiper-slide>Slide 5</swiper-slide>
-                    <swiper-slide>Slide 6</swiper-slide><swiper-slide>Slide 7</swiper-slide>
-                    <swiper-slide>Slide 8</swiper-slide><swiper-slide>Slide 9</swiper-slide>
+                    <swiper-slide>
+                        <img src="/Banner/banner2.jpg" alt="">
+                    </swiper-slide>
+                    <swiper-slide>
+                        <img src="/Banner/banner3.webp" alt="">
+                    </swiper-slide>
+                    <swiper-slide>
+                        <img src="/Banner/home_banner_4.webp" alt="">
+                    </swiper-slide>
+                    <swiper-slide>
+                        <img src="/Banner/images_banner.jpg" alt=""> 
+                    </swiper-slide>
+                    <swiper-slide>
+                        <img src="/Banner/images_banner5.jpg" alt="">
+                    </swiper-slide>
                 </swiper>
             </div>
            
@@ -30,11 +41,8 @@
     </div>
 </template>
 <script setup>
-import Card from 'primevue/card';
-
 // Import Swiper Vue.js components
 import { Swiper, SwiperSlide } from 'swiper/vue';
-
 // Import Swiper styles
 import 'swiper/css';
 import 'swiper/css/pagination';
@@ -42,10 +50,8 @@ import 'swiper/css/navigation';
 
 // import required modules
 import { Autoplay, Pagination, Navigation } from 'swiper/modules';
-
 const modules = [Autoplay, Pagination, Navigation];
 </script>
-
 
 <style>
 
