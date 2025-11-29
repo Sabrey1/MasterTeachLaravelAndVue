@@ -2,12 +2,16 @@
     <div class="surface-800 text-white">
         <div class="fix-container">
             <div class="py-3 flex gap-5">
-                <p id="font"><i class="bi bi-telephone mr-2 text-red-500" ></i>012 345 678/012 786 123</p>
-                <p id="font"><i class="bi bi-geo-alt-fill mr-2 text-red-500"></i>ទីតាំង:ខាងក្រោយពេទ្យលោកសង្ឃ ផ្លូវលេខ146 ផ្ទះលេខ 229A សង្កាត់ទឹកល្អក់2 រាជធានីភ្នំពេញ Cambodia</p>
+                <p id="font"><i class="bi bi-telephone mr-2 text-red-500" ></i>012 345 678 / 098 496 8496</p>
+                <p id="font"><i class="bi bi-geo-alt-fill mr-2 text-red-500"></i>ទីតាំង:ខាងក្រោយអាការាអង្គរ
+ផ្លូវ 60ម
+ផ្ទះលេខ 07C
+សង្កាត់ច្រើនទឹក
+ក្រុងសៀមរាប Cambodia</p>
             </div>
             <div class="flex gap-4 pb-4">
                 <div class="flex gap-1">
-                    <h1 class="text-4xl font-bold">Master</h1>
+                    <h1 class="text-4xl font-bold">Sabrey</h1>
                     <h1 class="text-4xl font-bold text-red-500">Tech</h1>
                 </div>
                 <div class="flex items-center rounded-full overflow-hidden w-80">

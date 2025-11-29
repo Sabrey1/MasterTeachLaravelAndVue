@@ -2,7 +2,7 @@
     <div class="surface-900 text-white">
         <div class="fix-container">
             <div class="flex gap-1 py-5 mt-3">
-                <h1 class="text-4xl font-bold">Master</h1>
+                <h1 class="text-4xl font-bold">Sabrey</h1>
                 <h1 class="text-4xl font-bold text-red-500">Tech</h1>
             </div>
             <div class="py-3 gap-5 line-height-4">
