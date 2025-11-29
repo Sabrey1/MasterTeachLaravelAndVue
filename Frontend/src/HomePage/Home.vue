@@ -4,7 +4,7 @@
 <cardInfo />
 <HotPromotion />
 <Category />
-<Product />
+<HomeProduct />
 <footers />
 <scrollToTop />
 </template>
@@ -15,7 +15,7 @@ import slide from '@/Layout/slide.vue'
 import cardInfo from '@/Layout/cardInfo.vue'
 import HotPromotion from '@/Layout/HotPromotion.vue'
 import Category from '@/Layout/Category.vue'
-import Product from '@/Layout/Product.vue'
+import HomeProduct from '@/Layout/HomeProduct.vue'
 import footers from '@/Layout/footer.vue'
 import scrollToTop from '@/Layout/scrollToTop.vue'
 </script>
