@@ -1,6 +1,6 @@
 <template >
     <div class="fix-container mt-5">
-        <p class="text-4xl font-bold text-center underline">HOT PROMOTION</p>
+        <p class="text-4xl font-bold text-center underline mb-2">HOT PROMOTION</p>
     </div>
     <div class="card fix-container">
         <Carousel :value="products" :numVisible="4" :numScroll="1" :responsiveOptions="responsiveOptions" circular :autoplayInterval="3000">
