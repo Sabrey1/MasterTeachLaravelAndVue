@@ -13,6 +13,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.fix-contain{
+	max-width: 700px; width: 100%;  margin: 0 auto;
+}
 .fix-container{
 	max-width: 1240px; width: 100%;  margin: 0 auto;
 }
