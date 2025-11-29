@@ -20,23 +20,16 @@
                         <img src="/Banner/banner1.webp" alt="">
                     </swiper-slide>
                     <swiper-slide>
-                        <img src="/Banner/banner2.jpg" alt="">
-                    </swiper-slide>
-                    <swiper-slide>
                         <img src="/Banner/banner3.webp" alt="">
                     </swiper-slide>
                     <swiper-slide>
                         <img src="/Banner/home_banner_4.webp" alt="">
                     </swiper-slide>
                     <swiper-slide>
-                        <img src="/Banner/images_banner.jpg" alt=""> 
-                    </swiper-slide>
-                    <swiper-slide>
                         <img src="/Banner/images_banner5.jpg" alt="">
                     </swiper-slide>
                 </swiper>
             </div>
-           
         </div>
     </div>
 </template>
@@ -57,7 +50,7 @@ const modules = [Autoplay, Pagination, Navigation];
 
 .swiper {
   width: 100%;
-  height: 100%;
+  height: 60vh;
 }
 
 .swiper-slide {
