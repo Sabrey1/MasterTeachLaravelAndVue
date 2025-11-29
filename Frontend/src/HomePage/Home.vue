@@ -6,6 +6,7 @@
 <Category />
 <Product />
 <footers />
+<scrollToTop />
 </template>
 
 <script setup>
@@ -16,4 +17,5 @@ import HotPromotion from '@/Layout/HotPromotion.vue'
 import Category from '@/Layout/Category.vue'
 import Product from '@/Layout/Product.vue'
 import footers from '@/Layout/footer.vue'
+import scrollToTop from '@/Layout/scrollToTop.vue'
 </script>
