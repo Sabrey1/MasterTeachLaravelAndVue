@@ -1,9 +1,9 @@
 <template>
 <headers />
-<CardDetail />
+<PaymentDetail />
 </template>
 
 <script setup>
 import headers from '@/Layout/header.vue'
-import CardDetail from '@/BuyNow/CardDetail.vue'
+import PaymentDetail from '@/BuyNow/PaymentDetail.vue'
 </script>
